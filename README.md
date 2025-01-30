@@ -1,6 +1,10 @@
 ## Hi there 👋
+my name is tyler eggers
+I am a year 13 student of waimea college, i enjoy doing coding, gaming, tcg's and kapa haka. i take a major leadership role in my school
 
-I am great
+i am learning kotlin and PHP
+
+i  am looking to take a career in software
 
 <!--
 **waimea-tjeggers/waimea-tjeggers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
